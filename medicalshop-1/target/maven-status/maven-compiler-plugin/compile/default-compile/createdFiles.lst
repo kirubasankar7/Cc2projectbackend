@@ -1,0 +1,5 @@
+com\example\demo\Medicalshop1Application.class
+com\example\demo\controllers\medicalcontroller.class
+com\example\demo\repositories\MedicalRepo.class
+com\example\demo\service\medicalservice.class
+com\example\demo\models\medical.class
